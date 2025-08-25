@@ -5,7 +5,7 @@ Write a program that lets the user input an integer and then prints the cube of 
 
 ## Requirements
 - Use the signature 'int cube (int x)'
-- 
+
 ## Example
 ### Input
 3
