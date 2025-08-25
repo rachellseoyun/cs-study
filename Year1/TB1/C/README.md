@@ -1,4 +1,4 @@
-# Imperative Programming (C) — Year 1 / Sem 1
+# Imperative Programming (C)
 
 ## Topics
 - Arrays & Strings
