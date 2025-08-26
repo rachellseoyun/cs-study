@@ -1,14 +1,14 @@
 #include <stdio.h>
 
-int cube(int x) {
-  return x * x * x;
+int cube(int n) {
+  return n * n * n;
 }
 
 int main() {
-  int x;
+  int n;
   printf("Enter an integer:\n");
-  scanf("%d", &x);
-  printf("%d cubed is %d\n", x, cube(x));
+  scanf("%d", &n);
+  printf("%d cubed is %d\n", n, cube(n));
   return 0;
 }
 
