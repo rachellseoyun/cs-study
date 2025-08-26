@@ -7,7 +7,6 @@
 int remainder(int x, int y) {
     return x % y;
 }
-
 int main() {
     int x, y;
     printf("Enter an integer:\n");
